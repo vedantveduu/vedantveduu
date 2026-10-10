@@ -52,23 +52,12 @@
 
 ---
 
-## 🎓 Learning & Training
-
-- 🗣️ **ACM Summer School on Natural Language Models** (CSIR-CSE, IIT Guwahati): ASR, TTS, Machine Translation, ESPnet
-- 📈 **Supervised Machine Learning: Regression and Classification** (DeepLearning.AI)
-- 🛰️ **Bharatiya Antariksh Hackathon 2026** (ISRO): participant
-
----
-
-## 📊 GitHub Stats
+## 🧩 LeetCode Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vedantveduu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantveduu&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vedantveduu&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <a href="https://leetcode.com/u/codingkrnedo/">
+    <img src="https://leetcard.jacoblin.cool/codingkrnedo?theme=dark&border=0" alt="LeetCode stats" />
+  </a>
 </p>
 
 ---
